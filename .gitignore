@@ -1,0 +1,13 @@
+CV/*.aux
+CV/*.log
+CV/*.fls
+CV/*.fdb_latexmk
+CV/*.out
+CV/*.bbl
+CV/*.synctex.gz
+CV/*.blg
+CV/*.bcf
+CV/*.run.xml
+Cover-Letter
+
+
