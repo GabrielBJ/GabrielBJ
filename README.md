@@ -1,4 +1,4 @@
-# Hi, Gabriel Balarezo 
+# Hi, I am Gabriel Balarezo 
 
 <pre>
                                   ___           ___           ___       ___       ___     
